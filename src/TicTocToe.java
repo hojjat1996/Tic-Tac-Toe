@@ -1,6 +1,5 @@
 import com.sun.webkit.ColorChooser;
 import java.awt.Color;
-import java.awt.TextField;
 import javax.swing.* ;
 
 public class TicTocToe extends javax.swing.JFrame {
