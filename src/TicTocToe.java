@@ -1,4 +1,3 @@
-import com.sun.webkit.ColorChooser;
 import java.awt.Color;
 import javax.swing.* ;
 
@@ -291,6 +290,7 @@ public class TicTocToe extends javax.swing.JFrame {
             textField.setText("");
         }
         colorWinnerChooser[0] = 0 ;
+        textField.setText("X's turn");
     }//GEN-LAST:event_playAgainActionPerformed
 
     public static void main(String args[]) {
